@@ -1,15 +1,17 @@
 # GWONWOO (JUSTIN) CHA - Portfolio
 
-## Table of Contents
-1. [About Me](#about-me)
-2. [Portfolio Projects](#relevant-projects)   
-3. [Education](#education)
-4. [Technical Skills](#technical-skills)
-
-
 ## About Me
 I am a dedicated Applied Data Analytics student at Syracuse University, with a strong interest in using data-driven insights to solve business problems. 
 My academic and professional experiences have equipped me with a broad skill set in data analysis, predictive modeling, and business development.
+
+## Table of Contents
+- [About Me](#about-me)
+- [Portfolio Projects](#portfolio-projects)
+  - [R](#energy-consumption-prediction)
+  - [Tableau](#navigating-us-healthcare-a-visual-exploration)
+  - [O'Range Market Platform](#orange-market-platform)
+- [Education](#education)
+- [Technical Skills](#technical-skills)
 
 ## Education
 
