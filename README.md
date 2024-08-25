@@ -2,14 +2,9 @@
 
 ## Table of Contents
 1. [About Me](#about-me)
-2. [Portfolio Projects](#relevant-projects)
-   -Python
-   -R(#Applied Data Science, Predicting energy consumption using SVM model)
-   -SQL(#Visual Analytics Dashboard, Healthcare Dashboard)
-   -Tableau
-   -Excel
-4. [Education](#education)
-5. [Technical Skills](#technical-skills)
+2. [Portfolio Projects](#relevant-projects)   
+3. [Education](#education)
+4. [Technical Skills](#technical-skills)
 
 
 ## About Me
