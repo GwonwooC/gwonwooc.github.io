@@ -7,8 +7,8 @@ My academic and professional experiences have equipped me with a broad skill set
 ## Table of Contents
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
-  - [R](#energy-consumption-prediction)
-  - [Tableau](#navigating-us-healthcare-a-visual-exploration)
+  - [R](#Applied Data Science, Predicting energy consumption using SVM model with R)
+  - [Tableau](#Visual Analytics Dashboard, Healthcare Dashboard)
   - [O'Range Market Platform](#orange-market-platform)
 - [Education](#education)
 - [Technical Skills](#technical-skills)
