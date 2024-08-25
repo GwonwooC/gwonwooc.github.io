@@ -68,7 +68,12 @@ Using R functions the analysis revealed that after 5:30 PM the energy usage incr
 
 ### Visual Analytics Dashboard, Healthcare Dashboard
 **Dashboard**
-(https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/VisualAnalyticDashboard_Final_Project_Group9%201.pptx)
+![Tableau Slide 1](https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/tableau1.png)
+![Tableau Slide 2](https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/tableau2.png))
+![Tableau Slide 3](https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/tableau3.png)
+![Tableau Slide 4](https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/tableau4.png)
+![Tableau Slide 5](https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/tableau5.png)
+![Tableau Slide 6](https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/tableau6.png)
 
 **Goal:** 
 Provide a comprehensive visual analysis of the U.S. healthcare system to offer actionable insights to stakeholders, helping them to improve healthcare outcomes and inform policy decisions across different states in the U.S.
