@@ -11,9 +11,7 @@ My academic and professional experiences have equipped me with a broad skill set
     - [Applied Data Science: Predicting Energy Consumption using SVM Model with R](#applied-data-science-predicting-energy-consumption-using-svm-model-with-r)
   - [Tableau]
     - [Visual Analytics Dashboard: Healthcare Dashboard](#visual-analytics-dashboard-healthcare-dashboard)
-  - [O'Range Market Platform](#orange-market-platform)
 - [Education](#education)
-- [Technical Skills](#technical-skills)
 
 
 
