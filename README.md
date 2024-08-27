@@ -8,9 +8,9 @@ My academic and professional experiences have equipped me with a broad skill set
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [R]
-    - [Applied Data Science: Predicting Energy Consumption using SVM Model with R](#applied-data-science-predicting-energy-consumption-using-svm-model-with-r)
+    - [SVM model using R to predict energy consumption on extra hot summer](#applied-data-science-predicting-energy-consumption-using-svm-model-with-r)
   - [Tableau]
-    - [Visual Analytics Dashboard: Healthcare Dashboard](#visual-analytics-dashboard-healthcare-dashboard)
+    - [Tableau healthcare dashboard](#visual-analytics-dashboard-healthcare-dashboard)
 - [Education](#education)
 
 
@@ -41,7 +41,7 @@ My academic and professional experiences have equipped me with a broad skill set
 ## Relevant Projects
 
 
-### Applied Data Science, Predicting energy consumption using SVM model with R
+### SVM model using R to predict energy consumption on extra hot summer
 **Code:** 
 (https://github.com/GwonwooC/eSC/blob/main/project_preprocessing.R)
 (https://github.com/GwonwooC/eSC/blob/main/project_modeling.R))
