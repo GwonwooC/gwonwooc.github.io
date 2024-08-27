@@ -8,9 +8,9 @@ My academic and professional experiences have equipped me with a broad skill set
 - [About Me](#about-me)
 - [Portfolio Projects](#portfolio-projects)
   - [R]
-    - [SVM model using R to predict energy consumption on extra hot summer](#applied-data-science-predicting-energy-consumption-using-svm-model-with-r)
+    - [SVM model using R to predict energy consumption on extra hot summer](#svm-model-using-r-to-predict-energy-consumption-on-extra-hot-summer)
   - [Tableau]
-    - [Tableau healthcare dashboard](#visual-analytics-dashboard-healthcare-dashboard)
+    - [Tableau healthcare dashboard](#tableau-healthcare-dashboard)
 - [Education](#education)
 
 
@@ -64,7 +64,7 @@ Using R functions the analysis revealed that after 5:30 PM the energy usage incr
 **Detail Report:** 
 (https://github.com/GwonwooC/eSC/tree/main#readme)
 
-### Healthcare Tableau Dashboard 
+### Tableau Healthcare Dashboard 
 **Dashboard**
 ![Tableau Slide 1](https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/tableau1.png)
 ![Tableau Slide 2](https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/tableau2.png))
