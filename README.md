@@ -64,6 +64,9 @@ Using R functions the analysis revealed that after 5:30 PM the energy usage incr
 **Detail Report:** 
 (https://github.com/GwonwooC/eSC/tree/main#readme)
 
+
+
+
 ### Tableau Healthcare Dashboard 
 **Dashboard**
 ![Tableau Slide 1](https://github.com/GwonwooC/Navigating-US-Healthcare/blob/main/tableau1.png)
