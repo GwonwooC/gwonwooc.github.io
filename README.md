@@ -1,17 +1,19 @@
 # GWONWOO (JUSTIN) CHA - Portfolio
 
 ## About Me
-I am a dedicated Applied Data Analytics student at Syracuse University, with a strong interest in using data-driven insights to solve business problems. 
-My academic and professional experiences have equipped me with a broad skill set in data analysis, predictive modeling, and business development.
+I am a dedicated Applied Data Analytics student at Syracuse University, with a strong interest in using data-driven insights to solve business problems. My academic and professional experiences have equipped me with a broad skill set in data analysis, predictive modeling, and business development. I am particularly skilled in cross-functional team collaboration and delivering actionable business insights through data.
 
 ## Table of Contents
 - [About Me](#about-me)
+- [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
+  - [Python Projects](#python-projects)
+    - [Xente E-commerce Loan Default Prediction](#xente-e-commerce-loan-default-prediction)
   - [R]
     - [SVM model using R to predict energy consumption on extra hot summer](#svm-model-using-r-to-predict-energy-consumption-on-extra-hot-summer)
   - [Tableau]
     - [Tableau healthcare dashboard](#tableau-healthcare-dashboard)
-- [Education](#education)
+
 
 
 
@@ -27,19 +29,41 @@ My academic and professional experiences have equipped me with a broad skill set
 
 ### Business Development Intern at Day 1 Company, Seoul, KR
 **Duration:** June 2022 – Aug 2022  
-- Conducted in-depth competitor analysis, influencing strategic business planning and improving market positioning.
-- Analyzed sales data using Excel, identifying top-performing courses, leading to strategic decisions that boosted course visibility and sales.
-- Collaborated on the launch of Python and Excel VBA courses, contributing to 12 initial sales and sustained growth.
-- Secured partnerships with 20 social media influencers, enhancing the reach and effectiveness of promotional campaigns.
+- Conducted in-depth competitor analysis across 10+ industry rivals, evaluating over 50 products, services, and projects
+- Analyzed sales data using Excel, identifying key trends and customer preferences to support business decisions for launching 2 new online courses
+- Spearheaded the successful launch of Python and Excel VBA courses, collaborating closely with senior product manager to align course content with market demand and learning objectives
 
 ### Teaching Assistant for Networks and Clouds at Syracuse University, Syracuse, NY
 **Duration:** Jan 2024 – Apr 2024  
-- Assisted in the development and refinement of lab sessions, improving content accuracy and relevance for 73 students.
+- Volunteered as a Teaching Assistant for the Networks and Clouds course, leading weekly lab sessions for 73 students
 - Mentored 24 students through weekly meetings, providing guidance on academic progress and technical skills.
-- Utilized Excel to evaluate student performance, generating detailed reports to track progress and outcomes.
+- Analyzed student performance using Excel, creating comprehensive reports to track progress, highlight growth areas, and measure outcomes
 
 ## Relevant Projects
 
+### Python Projects
+
+#### Xente E-commerce Loan Default Prediction
+**Code:**  
+[Repository Link](https://github.com/GwonwooC/Credit-Scoring-Challnege)
+
+**Goal:**  
+Predict the likelihood of loan default for e-commerce customers using historical transaction data to inform risk assessment and improve loan approval processes.
+
+**Description:**  
+In this project, I utilized customer transaction data from Xente, an e-commerce platform, to predict loan default probability. Key steps included data cleaning, feature engineering, and implementing machine learning models to assess loan risk. Various models were evaluated, including Logistic Regression, Random Forest, and Gradient Boosting, to identify significant features affecting loan repayment. The project involved balancing data through resampling to address class imbalance, ensuring robust predictive accuracy.
+
+**Skills:**  
+Data Preprocessing, Feature Engineering, Logistic Regression, Random Forest, Gradient Boosting, Model Evaluation
+
+**Technology:**  
+Python, Pandas, Scikit-Learn, imbalanced-learn
+
+**Results:**  
+The best model achieved an accuracy of 86% in predicting loan default, offering significant insights into loan approval risk management.
+
+**Detail Report:**  
+[Full Report](https://github.com/GwonwooC/Credit-Scoring-Challnege#readme)
 
 ### SVM model using R to predict energy consumption on extra hot summer
 **Code:** 
