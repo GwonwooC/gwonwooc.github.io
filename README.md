@@ -7,7 +7,7 @@ I am a dedicated Applied Data Analytics student at Syracuse University, with a s
 - [About Me](#about-me)
 - [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
-  - [Python Projects](#python-projects)
+  - [Python]
     - [Xente E-commerce Loan Default Prediction](#xente-e-commerce-loan-default-prediction)
   - [R]
     - [SVM model using R to predict energy consumption on extra hot summer](#svm-model-using-r-to-predict-energy-consumption-on-extra-hot-summer)
