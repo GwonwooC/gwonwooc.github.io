@@ -23,9 +23,24 @@ I leverage data-driven insights to optimize business performance and support str
 **Degree:** B.S. in Applied Data Analytics  
 **Expected Graduation:** May 2025  
 **Cumulative GPA:** 3.8/4.0  
-**Honors/Awards:** Dean’s List (Fall 2022, Spring 2023, Fall 2023, Spring 2024)  
+**Honors/Awards:** Dean’s List (Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024 & Spring 2025)  
 
 ## Work Experience
+
+### Administrative Manager | KOTRA Los Angeles
+**Los Angeles, CA | Jun 2025 – Present**
+- Analyzed cultural trend data across 50 U.S. states using SQL, including Korean demographics, restaurant density, and Google search trends to identify high-potential regions for K-product market entry
+- Built an interactive KPI dashboard in Power BI to visualize regional K-culture engagement, enabling stakeholders to monitor and compare state-level indicators in real time
+- Created a customized “K-Culture Popularity Index” by applying advanced DAX formulas to weight diverse metrics, improving decision-making for regional expansion strategies
+- Developed a centralized SQL database architecture to streamline data storage, improve integration, and enhance analytics capabilities
+- Reported actionable insights and recommendations to executive leadership, directly shaping U.S. market entry strategies
+
+### Business Intelligence Analyst | Syracuse University
+**Syracuse, NY | Jan 2025 – May 2025**
+- Analyzed demographics, academic interests, and student engagement data from peer mentoring and Wednesday Forum programs to evaluate the effectiveness of international student success initiatives
+- Designed Tableau dashboards to visualize program impact, supporting data-driven decision-making by senior administrators
+- Presented findings and recommendations that led to targeted improvements in student success programming
+- Strengthened communication with cross-functional teams by translating analytical insights into clear strategic recommendations
 
 ### Business Development Intern at Day 1 Company, Seoul, KR
 **Duration:** June 2022 – Aug 2022  
