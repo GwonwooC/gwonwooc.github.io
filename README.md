@@ -1,7 +1,7 @@
 # GWONWOO (JUSTIN) CHA - Portfolio
 
 ## About Me
-I am a dedicated Applied Data Analytics student at Syracuse University, with a strong interest in using data-driven insights to solve business problems. My academic and professional experiences have equipped me with a broad skill set in data analysis, predictive modeling, and business development. I am particularly skilled in cross-functional team collaboration and delivering actionable business insights through data.
+I leverage data-driven insights to optimize business performance and support strategic decision-making. My expertise spans predictive modeling, dashboard design, and business intelligence, with a proven ability to translate complex data into actionable outcomes.
 
 ## Table of Contents
 - [About Me](#about-me)
