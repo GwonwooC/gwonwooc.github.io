@@ -7,8 +7,8 @@ I leverage data-driven insights to optimize business performance and support str
 - [About Me](#about-me)
 - [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
-  -[PowerBI]
-    -Market Expansion Decision Intelligence Power BI Dashboard – Korean Supermarket Feasibility Analysis (50 U.S. States)(#Market Expansion Decision Intelligence Power BI Dashboard)
+  - [PowerBI]
+    - [Market Expansion Decision Intelligence Dashboard – Korean Supermarket Feasibility Analysis (50 U.S. States)](#market-expansion-decision-intelligence-dashboard--korean-supermarket-feasibility-analysis-50-us-states)**
   - [Tableau]
     - [Tableau healthcare dashboard](#tableau-healthcare-dashboard)
   - [Python]
@@ -52,6 +52,7 @@ I leverage data-driven insights to optimize business performance and support str
 improve the sales conversion rate.
 
 ## Relevant Projects
+
 ### PowerBI
 ### Market Expansion Decision Intelligence Power BI Dashboard – Korean Supermarket Feasibility Analysis (50 U.S. States)
 **Dashboard**
