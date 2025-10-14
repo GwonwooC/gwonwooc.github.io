@@ -1,7 +1,7 @@
 # GWONWOO (JUSTIN) CHA - Portfolio
 
 ## About Me
-I leverage data-driven insights to optimize business performance and support strategic decision-making. My expertise spans predictive modeling, dashboard design, and business intelligence, with a proven ability to translate complex data into actionable outcomes.
+I recently graduated from Syracuse University with a B.S. in Applied Data Analytics, earning a 3.8 GPA. I consider myself a thoughtful, detail-oriented problem solver who enjoys translating data into clear business decisions. I specialize in building KPI dashboards, market intelligence models, and data-driven decision support solutions. A fun fact about me is that I founded OrangeMarket, a student-run secondhand trading platform, which gave me real experience blending product thinking with analytics.
 
 ## Table of Contents
 - [About Me](#about-me)
