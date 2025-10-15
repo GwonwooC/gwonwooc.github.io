@@ -56,7 +56,8 @@ improve the sales conversion rate.
 ### PowerBI
 ### Market Expansion Decision Intelligence Dashboard – Korean Supermarket Feasibility Analysis (50 U.S. States)
 **Dashboard**
-[Korean.Market.Feaibility.Final.pdf](https://github.com/user-attachments/files/22918510/Korean.Market.Feaibility.Final.pdf)
+[Korean Market Feaibility (Final).pdf](https://github.com/user-attachments/files/22918547/Korean.Market.Feaibility.Final.pdf)
+
 
 
 **Goal:**
