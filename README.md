@@ -1,7 +1,7 @@
 # GWONWOO (JUSTIN) CHA - Portfolio
 
 ## About Me
-I recently graduated from Syracuse University with a B.S. in Applied Data Analytics, earning a 3.8 GPA. I consider myself a thoughtful, detail-oriented problem solver who enjoys translating data into clear business decisions. I specialize in building KPI dashboards, market intelligence models, and data-driven decision support solutions. A fun fact about me is that I founded OrangeMarket, a student-run secondhand trading platform, which gave me real experience blending product thinking with analytics.
+I recently graduated from Syracuse University with a B.S. in Applied Data Analytics, earning a 3.8 GPA. I am a BI/Business Analyst specialized in identifying sales opportunities and turning data into actionable business insights. A fun fact about me is that I founded OrangeMarket, a student-run secondhand trading platform, which gave me real experience blending product thinking with analytics.
 
 ## Education
 
