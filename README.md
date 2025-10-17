@@ -3,11 +3,21 @@
 ## About Me
 I recently graduated from Syracuse University with a B.S. in Applied Data Analytics, earning a 3.8 GPA. I consider myself a thoughtful, detail-oriented problem solver who enjoys translating data into clear business decisions. I specialize in building KPI dashboards, market intelligence models, and data-driven decision support solutions. A fun fact about me is that I founded OrangeMarket, a student-run secondhand trading platform, which gave me real experience blending product thinking with analytics.
 
+## Education
+
+### Syracuse University — School of Information Studies
+**B.S. in Applied Data Analytics, May 2025**  
+**GPA:** 3.8 / 4.0 — **Dean’s List**  
+**Relevant Coursework:** Networks & Cloud (Teaching Assistant), Big Data Analytics, Visual Analytics Dashboards, Information Visualization, Data Mining
+
+## Skills & Tools
+Skills/Tools: Microsoft SQL Server, BigQuery, Tableau, Power BI, Looker Studio, GA4, SQL, Python (Pandas, NumPy, Scikit-learn), R, MS Excel, Google Sheets, Jupyter Notebook, VS Code, RStudio, GitHub, Azure, Firebase, Shopify, Notion
+
 ## Table of Contents
 - [About Me](#about-me)
 - [Education](#education)
 - [Portfolio Projects](#portfolio-projects)
-  - [PowerBI]
+  - [Power BI]
     - [Market Expansion Decision Intelligence Dashboard – Korean Supermarket Feasibility Analysis (50 U.S. States)](#market-expansion-decision-intelligence-dashboard--korean-supermarket-feasibility-analysis-50-us-states)**
   - [Tableau]
     - [Tableau healthcare dashboard](#tableau-healthcare-dashboard)
@@ -15,14 +25,6 @@ I recently graduated from Syracuse University with a B.S. in Applied Data Analyt
     - [Xente E-commerce Loan Default Prediction](#xente-e-commerce-loan-default-prediction)
   - [R]
     - [SVM model using R to predict energy consumption on extra hot summer](#svm-model-using-r-to-predict-energy-consumption-on-extra-hot-summer)
-
-## Education
-
-### Syracuse University, School of Information Studies
-**Degree:** B.S. in Applied Data Analytics  
-**Expected Graduation:** May 2025  
-**Cumulative GPA:** 3.8/4.0  
-**Honors/Awards:** Dean’s List (Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024 & Spring 2025)  
 
 ## Work Experience
 
@@ -53,7 +55,7 @@ improve the sales conversion rate.
 
 ## Relevant Projects
 
-### PowerBI
+### Power BI
 ### Market Expansion Decision Intelligence Dashboard – Korean Supermarket Feasibility Analysis (50 U.S. States)
 **Dashboard**
 [Korean Market Feaibility (Final).pdf](https://github.com/user-attachments/files/22918547/Korean.Market.Feaibility.Final.pdf)
@@ -107,13 +109,13 @@ Healthcare Performance Dashboard:
 This dashboard provides a critical overview of state-wise healthcare performance in the U.S., particularly focusing on the impact of COVID-19. Key insights include ICU bed occupancy, avoidable deaths, maternal mortality rates, and COVID-19 cases. It serves as a benchmark for policymakers and healthcare providers to assess and plan future healthcare initiatives.
 
 New Enrollment Dashboard:
-Analyzes Original Medicare-Medicaid Enrollment (MME) data by program type and geographical distribution. Highlights include insights on full-benefit and partial-benefit programs, enrollment trends from 2013-2021, and a regional analysis of MME distribution.
+Analyzes Original Medicare-Medicaid Enrollment (MME) data by program type and geographical distribution. Highlights include insights on full-benefit and partial-benefit programs, enrollment trends from 2013 to 2021, and a regional analysis of MME distribution.
 
 Hospice Analytics Dashboard:
 Presents national hospice care metrics, focusing on discharge rates, care gaps, hospitalization rates, and patient experiences. It provides a state-by-state and national perspective on hospice care quality and ownership.
 
 Healthcare Spending Dashboard:
-Offers a detailed visual analysis of U.S. healthcare spending per capita, highlighting state-level variations and historical spending trends. This dashboard allows for the exploration of how spending patterns have evolved over time.
+Offers a detailed visual analysis of U.S. healthcare spending per capita, highlighting state-level variations and historical spending trends. This dashboard allows for the exploration of how spending patterns have evolved.
 
 Total Enrollment Dashboard:
 Focuses on Total Medicare-Medicaid Enrollment (MME) data, categorized by program type and age demographics. It delivers insights into program accessibility and cumulative enrollment trends.
